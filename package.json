@@ -1,7 +1,7 @@
 {
     "name": "turkish-char-encoding",
     "version": "0.0.0",
-    "description": "a tool to convert turhish character encodings",
+    "description": "a tool to convert turkish character encodings",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: not specified yet\"",
