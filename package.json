@@ -1,10 +1,10 @@
 {
     "name": "turkish-char-encoding",
-    "version": "0.0.0",
+    "version": "0.0.5",
     "description": "a tool to convert turkish character encodings",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: not specified yet\"",
+        "test": "mocha"
     },
     "author": {
         "name": "Ahmet Kizilay",
@@ -14,9 +14,14 @@
         "type": "git",
         "url": "https://github.com/artsince/turkish-char-encoding.git"
     },
+    "dependencies": {
+
+    },
+    "devDependencies": {
+        "mocha": ">= 1.12.x",
+        "should": "> 1.2.x"
+    },
     "license": "MIT",
-    "dependencies": {},
-    "devDependencies": {},
     "engines": {
         "node": "*"
     }
