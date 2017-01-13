@@ -8,7 +8,7 @@ npm install turkish-char-encoding
 ```
 
 ### Testing
-Tests use [mocha](http://visionmedia.github.io/mocha/) and [should](https://github.com/visionmedia/should.js/).
+Tests use [mocha](http://mochajs.org/) and [should](https://github.com/visionmedia/should.js/).
 ```sh
 npm test
 ```
